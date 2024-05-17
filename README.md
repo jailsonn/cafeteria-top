@@ -9,7 +9,7 @@ O objetivo desse projeto é um site de cafeteria para mostrar a qualidade e cara
 N/A
 
 ## 🔗 Link do Projeto
-[Clique Aqui](https://benevolent-biscochitos-e43df1.netlify.app/)
+[Clique Aqui](https://boisterous-lily-443348.netlify.app/)
 
 ## ⚙️ Tecnologias 
 HTML5 Semantico
